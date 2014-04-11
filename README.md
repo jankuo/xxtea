@@ -9,7 +9,7 @@ It is different from the original XXTEA encryption algorithm. It encrypts and de
 ## Installation
 
 ```sh
-go get github.com/xxtea/xxtea-go/xxtea
+go get github.com/jankuo/xxtea/xxtea
 ```
 
 ## Usage
@@ -20,7 +20,7 @@ package main
 
 import (
     "fmt"
-    "github.com/xxtea/xxtea-go/xxtea"
+    "github.com/jankuo/xxtea/xxtea"
 )
 
 func main() {
