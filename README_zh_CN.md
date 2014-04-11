@@ -9,7 +9,7 @@ XXTEA 是一个快速安全的加密算法。本项目是 XXTEA 加密算法的 
 ## 安装
 
 ```sh
-go get github.com/xxtea/xxtea-go/xxtea
+go get github.com/jankuo/xxtea/xxtea
 ```
 
 ## 使用
@@ -20,7 +20,7 @@ package main
 
 import (
     "fmt"
-    "github.com/xxtea/xxtea-go/xxtea"
+    "github.com/jankuo/xxtea/xxtea"
 )
 
 func main() {
